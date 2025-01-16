@@ -12,4 +12,4 @@ Game Overview
 - Walls: Customize the grid by placing or removing walls on the map.
 
 ## Demo
-🎥 Watch the program in action: [Demo Video](https://youtu.be/4KYpqT5wPN0)
+🎥 Watch the program in action: [Demo Video](https://youtu.be/QVe7oSl8iUw)
