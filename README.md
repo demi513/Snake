@@ -1,6 +1,6 @@
 # Snake with Map Editor
 
-A version of the Snake game with a built-in map and settings edito. Play, design your own map, and enjoy smooth gameplay and a customizable grid system.
+A version of the Snake game with a built-in map and settings editor. Play, design your own map, and enjoy smooth gameplay and a customizable grid system.
 
 ## What I learned
 - Pygame: Leveraged Pygame to handle graphics, sounds, and game mechanics.
